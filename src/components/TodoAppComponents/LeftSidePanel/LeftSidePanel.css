@@ -119,7 +119,7 @@
 @media screen and (min-width: 768px) {
 
 .leftSideComponentCont{
-    width: 35%;
+    width: 25%;
 }
     .modal {
         width: 1000px;
@@ -159,7 +159,7 @@
 @media screen and (min-width: 922px) {
 
     .leftSideComponentCont{
-        width: 30%;
+        width: 15%;
     }
     
         .modal-content{

@@ -58,12 +58,6 @@ export default function LeftSideApp() {
         setEditIndex(index)
         setEditMode(true);
         setModal(true);
-
-     /**   setEditedIndex(index);
-       
-        setEditMode(true);
-        toggleModal(); 
-         */
     };
 
     const handleEditTodo = () => {
@@ -86,10 +80,7 @@ export default function LeftSideApp() {
         setNewDescription("");
         setModal(false);
         
-       /** const updatedTodos = [...allTodos];
-        updatedTodos[editedIndex] = { title: newTaskName, description: newDescription };
-        setAllTodos(updatedTodos);
-        */
+       
     };
 
     const handleComponentClick = () => {

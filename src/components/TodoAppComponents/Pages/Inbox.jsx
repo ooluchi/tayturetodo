@@ -60,7 +60,7 @@ export default function Inbox({ handleClick, todos }) {
                     border: "1px transparent",
                     backgroundColor: "#FEE6E3",
                     borderRadius: "5px",
-                    width: "1200px",
+                    width: "150px",
                     
                     
 
