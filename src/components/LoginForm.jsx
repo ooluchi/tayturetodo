@@ -65,7 +65,7 @@ export default function LoginForm() {
 
       console.log(`${userLocal.username}\n${userLocal.email}`);
 
-      navigate("/taytureTodoApp");
+      navigate("taytureTodoApp");
     } else {
       alert("Enter a valid email");
     }
