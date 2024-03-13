@@ -40,7 +40,7 @@ export default function Inbox({ handleClick, todos }) {
                 style={{
                     display: "flex",
                     justifyContent: "space-between",
-                    backgroundColor: isHovered ? "#B0B0B0" : "",
+                    backgroundColor: isHovered ? "" : "",
                     borderRadius: "5px",
                     marginLeft: "18px",
                     marginTop: "10px",

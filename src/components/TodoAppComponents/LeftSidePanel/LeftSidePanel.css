@@ -159,13 +159,13 @@
 @media screen and (min-width: 922px) {
 
     .leftSideComponentCont{
-        width: 15%;
+        width: 18%;
     }
     
         .modal-content{
             
-            top: 20%;
-            left: 53%;
+            top: 30%;
+            left: 35%;
             transform: translate(-50%, -50%);
             background: white;
             border-radius: 7px;
